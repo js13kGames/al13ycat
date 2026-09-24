@@ -1,4 +1,8 @@
 ---
+genres:
+  - word-games
+  - music
+  - puzzle
 directors_cut: https://alexswan.io/js13k-2025-al13ycat/
 video: https://youtu.be/9u9oEYCQNgw
 post: https://alexswan.dev/posts/js13k-2025-black-cat
